@@ -11,7 +11,7 @@ data = pd.DataFrame({
 })
 
 # Display the data
-st.title("Bayesian Network for COVID-19 Diagnosis")
+st.title("22AIA-Binary Wizards-Bayesian Network for COVID-19 Diagnosis")
 st.write("Sample Data:")
 st.write(data)
 
